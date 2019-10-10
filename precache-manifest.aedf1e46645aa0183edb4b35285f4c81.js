@@ -24,7 +24,7 @@ self.__precacheManifest = [
     "url": "/vkapps-forest/static/css/2.34a9acfc.chunk.css"
   },
   {
-    "revision": "0ca407fbb3982d6b35996650cdd0e20e",
+    "revision": "b5af596167124ccc4b03441385b27e07",
     "url": "/vkapps-forest/index.html"
   }
 ];
